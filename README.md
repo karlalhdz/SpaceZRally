@@ -7,7 +7,7 @@ Reto: Robot-Robot-Robot
 https://2015.spaceappschallenge.org/challenge/robots-robots-robots/
 
 Hastang:
-#Robotics, #robots, #SpaceZRally, #SpaceChangelle.
+.#Robotics, #robots, #SpaceZRally, #SpaceChangelle.
 
 Titulo: 
 Space Z-Rally.
