@@ -26,9 +26,9 @@ Luego de la capacitacion se le entregara al equipo un mapa virtual y los reto a 
 Esto, es cuanto a trabajar con nuestro prototipo se trata. La misma competencia puede ser implementa con el space bot de zero robotics, la busqueda de los objetos por medio de la instalacion de una camara en space bot. Para ello se realizaran un circuito cerrado de habitaciones con laberintos y obstaculos a superar por el spacebot que cuenten con el ambiente de desarrollo ideal para el spacebot. 
 
 #Creditos
-Joksan Alvarado (joksan.alvarado@gmail.com)
-Karla Hernandez (karla.hdz4@gmail.com)
-Jose Carlos Garcia (chepecarlos@alswblog.org)
+* Joksan Alvarado (joksan.alvarado@gmail.com)
+* Karla Hernandez (karla.hdz4@gmail.com)
+* Jose Carlos Garcia (chepecarlos@alswblog.org)
 
 #Licencia:
 GPL 3.0, GNU General Public License. (https://www.gnu.org/copyleft/gpl.html).
