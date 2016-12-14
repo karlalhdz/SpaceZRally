@@ -25,5 +25,10 @@ La competencia iniciara con 2 horas de capacitacion presencial y via streming do
 Luego de la capacitacion se le entregara al equipo un mapa virtual y los reto a realizar por el robot en la base asignada. Al arrancar la competencia cada robot saldra de distintas ubicaciones y desarrollaran trayectos diferentes pero con la misma distancia y cantidad de bases cada uno. Cada trayecto tendra al menos 3 jugadores, de los cuales solo calificara una persona a la siguiente ronda y asi sucesivamente hasta que lleguemos al final de la competencia y tengamos un tan solo campeon del Space Z Rally, el cual se llevara la gloria de ser el campeon del rally mas grande del mundo de robot a nivel mundial, y lo mejor de todo sin moverse de su país es mas sin moverse de su computador de su propia casa. Se plantea que el campeon sea contactado via streming y se le condecore luego de trasladarle al pais donde se realiza la competencia. 
 Esto, es cuanto a trabajar con nuestro prototipo se trata. La misma competencia puede ser implementa con el space bot de zero robotics, la busqueda de los objetos por medio de la instalacion de una camara en space bot. Para ello se realizaran un circuito cerrado de habitaciones con laberintos y obstaculos a superar por el spacebot que cuenten con el ambiente de desarrollo ideal para el spacebot. 
 
+#Creditos
+Joksan Alvarado (joksan.alvarado@gmail.com)
+Karla Hernandez (karla.hdz4@gmail.com)
+Jose Carlos Garcia (chepecarlos@alswblog.org)
+
 #Licencia:
 GPL 3.0, GNU General Public License. (https://www.gnu.org/copyleft/gpl.html).
